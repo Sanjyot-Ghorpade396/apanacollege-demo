@@ -1,4 +1,4 @@
 # apanacollege-demo
 this is my first repository
 <br>
-author- shraddha khapra
+author- shraddha (apana college.)
